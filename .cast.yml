@@ -1,6 +1,6 @@
 release:
   github:
-    owner: teamdfir
+    owner: PeterSufliarsky
     repo: sift-saltstack
 manifest:
   version: 2
